@@ -1,0 +1,755 @@
+
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\users\liam\documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error: displacement found on a(n) func_detail entity - not supported (entity 4, brush 0)
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\users\liam\documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error: displacement found on a(n) func_detail entity - not supported (entity 4, brush 0)
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liam\Documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error: displacement found on a(n) func_detail entity - not supported (entity 4, brush 0)
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liam\Documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error: displacement found on a(n) func_detail entity - not supported (entity 4, brush 0)
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liam\Documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error: displacement found on a(n) func_detail entity - not supported (entity 4, brush 0)
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+Error opening c:\users\liam\documents\mom-maps\bhop_canal.bsp
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liam\Documents\mom-maps\bhop_canal.vmf
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Error! Variable "$refracttint" is multiply defined in material "watersource/river/river_blue_2"!
+Could not locate 'GameData' key in c:\steamlibrary\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (1435.32 72.27 321.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 3072.0 1024.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 1024.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 3072.0 1024.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 1024.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 1024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 1536.0 1024.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 64.0 1192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 64.0 120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_cs15_daylight02_hdrrt" not found.
+Can't load skybox file skybox/sky_cs15_daylight02_hdr to build the default cubemap!
+Can't load skybox file skybox/sky_cs15_daylight02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2521 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 14
+Reduced 5 texdatas to 5 (111 bytes to 111)
+Writing C:\Users\liam\Documents\mom-maps\bhop_canal.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\liam\Documents\mom-maps\bhop_canal.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+reading c:\users\liam\documents\mom-maps\bhop_canal.prt
+LoadPortals: couldn't read c:\users\liam\documents\mom-maps\bhop_canal.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient        33/65536         924/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liam\documents\mom-maps\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\mom-maps\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0081 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces               36/65536        2016/3670016  ( 0.1%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          5/8192          440/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]      784132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liam\documents\mom-maps\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces               36/65536        2016/3670016  ( 0.1%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          5/8192          440/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]      784132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces               36/65536        2016/3670016  ( 0.1%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          5/8192          440/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]      784132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces               36/65536        2016/3670016  ( 0.1%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          5/8192          440/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]      784132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+No vis information, direct lighting only.
+36 faces
+237318 square feet [34173916.00 square inches]
+12 Displacements
+140269 Square Feet [20198830.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0018 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  60/65536        1200/1310720  ( 0.1%) 
+vertexes                76/65536         912/786432   ( 0.1%) 
+nodes                   31/65536         992/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             412/0            8240/0        ( 0.0%) 
+disp_tris              576/0            1152/0        ( 0.0%) 
+disp_lmsamples      207360/0          207360/0        ( 0.0%) 
+faces                   36/65536        2016/3670016  ( 0.1%) 
+hdr faces               36/65536        2016/3670016  ( 0.1%) 
+origfaces               24/65536        1344/3670016  ( 0.0%) 
+leaves                  33/65536        1056/2097152  ( 0.1%) 
+leaffaces               43/65536          86/131072   ( 0.1%) 
+leafbrushes             23/65536          46/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              241/512000        964/2048000  ( 0.0%) 
+edges                  148/256000        592/1024000  ( 0.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          5/8192          440/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              1/32768          10/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            12/65536          24/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      784132/0        ( 0.0%) 
+HDR lightdata         [variable]      784132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1190/393216   ( 0.3%) 
+LDR ambient table       33/65536         132/262144   ( 0.1%) 
+HDR ambient table       33/65536         132/262144   ( 0.1%) 
+LDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+HDR leaf ambient       211/65536        5908/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        2521/4194304  ( 0.1%) 
+physics terrain       [variable]        2584/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 73
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Map revision 44
+Material not found!: NATURE/CLIFFFACE001A
+Material not found!: NATURE/WATER_COAST01
+Error: displacement found on a(n) func_detail entity - not supported (entity 7, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Map revision 45
+Material not found!: NATURE/CLIFFFACE001A
+Error: displacement found on a(n) func_detail entity - not supported (entity 1, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Map revision 45
+Material not found!: NATURE/CLIFFFACE001A
+Error: displacement found on a(n) func_detail entity - not supported (entity 1, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\liaml\OneDrive\Documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Map revision 45
+Material not found!: NATURE/CLIFFFACE001A
+Error: displacement found on a(n) func_detail entity - not supported (entity 1, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_canal\bhop_canal.vmf
+Map revision 45
+Material not found!: NATURE/CLIFFFACE001A
+Error: displacement found on a(n) func_detail entity - not supported (entity 1, brush 0)

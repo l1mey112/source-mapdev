@@ -1,0 +1,2751 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 6
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 9
+Reduced 4 texdatas to 4 (131 bytes to 131)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+  12 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 144
+Average clusters visible: 12
+Building PAS...
+Average clusters audible: 12
+visdatasize:148  compressed from 192
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+266 faces
+242571 square feet [34930344.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+266 patches before subdivision
+18342 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3264485, max 448
+transfer lists:  24.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 11/8192          132/98304    ( 0.1%) 
+brushsides              66/81920         528/655360   ( 0.1%) 
+planes                  68/65536        1360/1310720  ( 0.1%) 
+vertexes               342/65536        4104/786432   ( 0.5%) 
+nodes                   64/65536        2048/2097152  ( 0.1%) 
+texinfos                 9/12288         648/884736   ( 0.1%) 
+texdata                  4/4096          128/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  266/65536       14896/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               14/65536         784/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         266/0            1064/0        ( 0.0%) 
+leaves                  67/65536        2144/2097152  ( 0.1%) 
+leaffaces              275/65536         550/131072   ( 0.4%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1210/512000       4840/2048000  ( 0.2%) 
+edges                  621/256000       2484/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/32768          30/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            36/65536          72/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2851120/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         148/16777216 ( 0.0%) 
+entdata               [variable]         500/393216   ( 0.1%) 
+LDR ambient table       67/65536         268/262144   ( 0.1%) 
+HDR ambient table       67/65536         268/262144   ( 0.1%) 
+LDR leaf ambient        18/65536         504/1835008  ( 0.0%) 
+HDR leaf ambient        67/65536        1876/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74462/0        ( 0.0%) 
+physics               [variable]        4254/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 622
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 8
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3894 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 10
+Reduced 4 texdatas to 4 (131 bytes to 131)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+  12 portalclusters
+  16 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 144
+Average clusters visible: 12
+Building PAS...
+Average clusters audible: 12
+visdatasize:148  compressed from 192
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+296 faces
+260292 square feet [37482060.00 square inches]
+6 Displacements
+49494 Square Feet [7127149.50 Square Inches]
+296 patches before subdivision
+22224 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3129212, max 442
+transfer lists:  23.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1281, 1487, 1859)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(179, 280, 529)
+Build Patch/Sample Hash Table(s).....Done<0.0087 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 10/8192          120/98304    ( 0.1%) 
+brushsides              60/81920         480/655360   ( 0.1%) 
+planes                  68/65536        1360/1310720  ( 0.1%) 
+vertexes               367/65536        4404/786432   ( 0.6%) 
+nodes                   68/65536        2176/2097152  ( 0.1%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/4096          128/131072   ( 0.1%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      131612/0          131612/0        ( 0.0%) 
+faces                  296/65536       16576/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               20/65536        1120/3670016  ( 0.0%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         296/0            1184/0        ( 0.0%) 
+leaves                  71/65536        2272/2097152  ( 0.1%) 
+leaffaces              302/65536         604/131072   ( 0.5%) 
+leafbrushes             55/65536         110/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1344/512000       5376/2048000  ( 0.3%) 
+edges                  688/256000       2752/1024000  ( 0.3%) 
+LDR worldlights          1/8192          100/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3674840/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         148/16777216 ( 0.0%) 
+entdata               [variable]         891/393216   ( 0.2%) 
+LDR ambient table       71/65536         284/262144   ( 0.1%) 
+HDR ambient table       71/65536         284/262144   ( 0.1%) 
+LDR leaf ambient       111/65536        3108/1835008  ( 0.2%) 
+HDR leaf ambient        71/65536        1988/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74462/0        ( 0.0%) 
+physics               [variable]        3894/4194304  ( 0.1%) 
+physics terrain       [variable]        2170/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 672
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 10
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56646 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 227 texinfos to 82
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+ 894 portalclusters
+3336 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 27765 visible clusters (0.00%)
+Total clusters visible: 706202
+Average clusters visible: 789
+Building PAS...
+Average clusters audible: 894
+visdatasize:205873  compressed from 200256
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+2121 faces
+29 degenerate faces
+261510 square feet [37657440.00 square inches]
+6 Displacements
+49494 Square Feet [7127149.50 Square Inches]
+2092 patches before subdivision
+24164 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9625007, max 1828
+transfer lists:  73.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1364, 1594, 2007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(206, 322, 605)
+Build Patch/Sample Hash Table(s).....Done<0.0127 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides            3008/81920       24064/655360   ( 3.7%) 
+planes                4648/65536       92960/1310720  ( 7.1%) 
+vertexes              2490/65536       29880/786432   ( 3.8%) 
+nodes                 1056/65536       33792/2097152  ( 1.6%) 
+texinfos                82/12288        5904/884736   ( 0.7%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      131612/0          131612/0        ( 0.0%) 
+faces                 2121/65536      118776/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              997/65536       55832/3670016  ( 1.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        2121/0            8484/0        ( 0.0%) 
+leaves                1059/65536       33888/2097152  ( 1.6%) 
+leaffaces             2451/65536        4902/131072   ( 3.7%) 
+leafbrushes            162/65536         324/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            14814/512000      59256/2048000  ( 2.9%) 
+edges                 8279/256000      33116/1024000  ( 3.2%) 
+LDR worldlights          1/8192          100/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            840/32768        8400/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12144/65536       24288/131072   (18.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3951404/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      205873/16777216 ( 1.2%) 
+entdata               [variable]         892/393216   ( 0.2%) 
+LDR ambient table     1059/65536        4236/262144   ( 1.6%) 
+HDR ambient table     1059/65536        4236/262144   ( 1.6%) 
+LDR leaf ambient      1951/65536       54628/1835008  ( 3.0%) 
+HDR leaf ambient      1059/65536       29652/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]       56646/4194304  ( 1.4%) 
+physics terrain       [variable]        2170/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 7258
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 11
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (93646 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 132
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+1546 portalclusters
+5811 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 76153 visible clusters (0.00%)
+Total clusters visible: 2156842
+Average clusters visible: 1395
+Building PAS...
+Average clusters audible: 1546
+visdatasize:604675  compressed from 618400
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+3526 faces
+44 degenerate faces
+272083 square feet [39180040.00 square inches]
+6 Displacements
+49494 Square Feet [7127149.50 Square Inches]
+3482 patches before subdivision
+29988 patches after subdivision
+12 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15792327, max 2705
+transfer lists: 120.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24685, 30155, 38781)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4441, 6858, 11374)
+Build Patch/Sample Hash Table(s).....Done<0.0087 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                155/8192         1860/98304    ( 1.9%) 
+brushsides            5099/81920       40792/655360   ( 6.2%) 
+planes                8022/65536      160440/1310720  (12.2%) 
+vertexes              4376/65536       52512/786432   ( 6.7%) 
+nodes                 1778/65536       56896/2097152  ( 2.7%) 
+texinfos               132/12288        9504/884736   ( 1.1%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      131612/0          131612/0        ( 0.0%) 
+faces                 3526/65536      197456/3670016  ( 5.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1683/65536       94248/3670016  ( 2.6%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        3526/0           14104/0        ( 0.0%) 
+leaves                1781/65536       56992/2097152  ( 2.7%) 
+leaffaces             4299/65536        8598/131072   ( 6.6%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            26061/512000     104244/2048000  ( 5.1%) 
+edges                14636/256000      58544/1024000  ( 5.7%) 
+LDR worldlights         12/8192         1200/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1512/32768       15120/327680   ( 4.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23736/65536       47472/131072   (36.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     4822244/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      604675/16777216 ( 3.6%) 
+entdata               [variable]        2672/393216   ( 0.7%) 
+LDR ambient table     1781/65536        7124/262144   ( 2.7%) 
+HDR ambient table     1781/65536        7124/262144   ( 2.7%) 
+LDR leaf ambient      5670/65536      158760/1835008  ( 8.7%) 
+HDR leaf ambient      1781/65536       49868/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]       93646/4194304  ( 2.2%) 
+physics terrain       [variable]        2170/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 13257
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 12
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (256.00 256.00 1792.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (173334 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 633 texinfos to 236
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 12
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (256.00 256.00 1792.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (173334 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 633 texinfos to 236
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 13
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (336.00 2160.00 1072.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (173334 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 633 texinfos to 236
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 14
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (336.00 2160.00 1072.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (173334 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 633 texinfos to 235
+Reduced 7 texdatas to 6 (221 bytes to 180)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+LoadPortals: couldn't read c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 15
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (176350 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 628 texinfos to 230
+Reduced 7 texdatas to 5 (249 bytes to 136)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2917 portalclusters
+10876 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 235179 visible clusters (0.00%)
+Total clusters visible: 7663953
+Average clusters visible: 2627
+Building PAS...
+Average clusters audible: 2916
+visdatasize:2116236  compressed from 2146912
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6689 faces
+84 degenerate faces
+624929 square feet [89989816.00 square inches]
+5 Displacements
+44286 Square Feet [6377295.50 Square Inches]
+6605 patches before subdivision
+62085 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35371578, max 4328
+transfer lists: 269.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(14196, 18239, 24742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1531, 2665, 4857)
+Build Patch/Sample Hash Table(s).....Done<0.0217 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                299/8192         3588/98304    ( 3.6%) 
+brushsides            9703/81920       77624/655360   (11.8%) 
+planes               15394/65536      307880/1310720  (23.5%) 
+vertexes              8322/65536       99864/786432   (12.7%) 
+nodes                 3283/65536      105056/2097152  ( 5.0%) 
+texinfos               230/12288       16560/884736   ( 1.9%) 
+texdata                  5/4096          160/131072   ( 0.1%) 
+dispinfos                5/0             880/0        ( 0.0%) 
+disp_verts            1445/0           28900/0        ( 0.0%) 
+disp_tris             2560/0            5120/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      117649/0          117649/0        ( 0.0%) 
+faces                 6689/65536      374584/3670016  (10.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3137/65536      175672/3670016  ( 4.8%) 
+facebrushes            222/0             444/0        ( 0.0%) 
+facebrushlists        6689/0           26756/0        ( 0.0%) 
+leaves                3286/65536      105152/2097152  ( 5.0%) 
+leaffaces             9336/65536       18672/131072   (14.2%) 
+leafbrushes            426/65536         852/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            50969/512000     203876/2048000  (10.0%) 
+edges                28680/256000     114720/1024000  (11.2%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2739/32768       27390/327680   ( 8.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47538/65536       95076/131072   (72.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     9794516/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2116236/16777216 (12.6%) 
+entdata               [variable]        2519/393216   ( 0.6%) 
+LDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+HDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+LDR leaf ambient     10948/65536      306544/1835008  (16.7%) 
+HDR leaf ambient      3286/65536       92008/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149543/0        ( 0.0%) 
+physics               [variable]      176350/4194304  ( 4.2%) 
+physics terrain       [variable]        2014/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 26554
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 17
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (176350 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 635 texinfos to 234
+Reduced 7 texdatas to 5 (249 bytes to 136)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2917 portalclusters
+10876 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 235179 visible clusters (0.00%)
+Total clusters visible: 7663953
+Average clusters visible: 2627
+Building PAS...
+Average clusters audible: 2916
+visdatasize:2116236  compressed from 2146912
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6697 faces
+84 degenerate faces
+624929 square feet [89989816.00 square inches]
+13 Displacements
+256625 Square Feet [36954012.00 Square Inches]
+6613 patches before subdivision
+63997 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14662728, max 3920
+transfer lists: 111.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(30150, 32674, 34022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9747, 11558, 12533)
+Build Patch/Sample Hash Table(s).....Done<0.0238 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                299/8192         3588/98304    ( 3.6%) 
+brushsides            9703/81920       77624/655360   (11.8%) 
+planes               15404/65536      308080/1310720  (23.5%) 
+vertexes              8339/65536      100068/786432   (12.7%) 
+nodes                 3283/65536      105056/2097152  ( 5.0%) 
+texinfos               234/12288       16848/884736   ( 1.9%) 
+texdata                  5/4096          160/131072   ( 0.1%) 
+dispinfos               13/0            2288/0        ( 0.0%) 
+disp_verts            3757/0           75140/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      223309/0          223309/0        ( 0.0%) 
+faces                 6697/65536      375032/3670016  (10.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3145/65536      176120/3670016  ( 4.8%) 
+facebrushes            222/0             444/0        ( 0.0%) 
+facebrushlists        6697/0           26788/0        ( 0.0%) 
+leaves                3286/65536      105152/2097152  ( 5.0%) 
+leaffaces             9336/65536       18672/131072   (14.2%) 
+leafbrushes            426/65536         852/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            51033/512000     204132/2048000  (10.0%) 
+edges                28728/256000     114912/1024000  (11.2%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2739/32768       27390/327680   ( 8.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47538/65536       95076/131072   (72.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    10264548/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2116236/16777216 (12.6%) 
+entdata               [variable]        2520/393216   ( 0.6%) 
+LDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+HDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+LDR leaf ambient      8557/65536      239596/1835008  (13.1%) 
+HDR leaf ambient      3286/65536       92008/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149543/0        ( 0.0%) 
+physics               [variable]      176350/4194304  ( 4.2%) 
+physics terrain       [variable]        5558/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26570
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 17
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (176350 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 635 texinfos to 234
+Reduced 7 texdatas to 5 (249 bytes to 136)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2917 portalclusters
+10876 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 235179 visible clusters (0.00%)
+Total clusters visible: 7663953
+Average clusters visible: 2627
+Building PAS...
+Average clusters audible: 2916
+visdatasize:2116236  compressed from 2146912
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6697 faces
+84 degenerate faces
+624929 square feet [89989816.00 square inches]
+13 Displacements
+256625 Square Feet [36954012.00 Square Inches]
+6613 patches before subdivision
+63997 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14662728, max 3920
+transfer lists: 111.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(30150, 32674, 34022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9747, 11558, 12533)
+Build Patch/Sample Hash Table(s).....Done<0.0210 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                299/8192         3588/98304    ( 3.6%) 
+brushsides            9703/81920       77624/655360   (11.8%) 
+planes               15404/65536      308080/1310720  (23.5%) 
+vertexes              8339/65536      100068/786432   (12.7%) 
+nodes                 3283/65536      105056/2097152  ( 5.0%) 
+texinfos               234/12288       16848/884736   ( 1.9%) 
+texdata                  5/4096          160/131072   ( 0.1%) 
+dispinfos               13/0            2288/0        ( 0.0%) 
+disp_verts            3757/0           75140/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      223309/0          223309/0        ( 0.0%) 
+faces                 6697/65536      375032/3670016  (10.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3145/65536      176120/3670016  ( 4.8%) 
+facebrushes            222/0             444/0        ( 0.0%) 
+facebrushlists        6697/0           26788/0        ( 0.0%) 
+leaves                3286/65536      105152/2097152  ( 5.0%) 
+leaffaces             9336/65536       18672/131072   (14.2%) 
+leafbrushes            426/65536         852/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            51033/512000     204132/2048000  (10.0%) 
+edges                28728/256000     114912/1024000  (11.2%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2739/32768       27390/327680   ( 8.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47538/65536       95076/131072   (72.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    10264548/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2116236/16777216 (12.6%) 
+entdata               [variable]        2520/393216   ( 0.6%) 
+LDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+HDR ambient table     3286/65536       13144/262144   ( 5.0%) 
+LDR leaf ambient      8557/65536      239596/1835008  (13.1%) 
+HDR leaf ambient      3286/65536       92008/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149543/0        ( 0.0%) 
+physics               [variable]      176350/4194304  ( 4.2%) 
+physics terrain       [variable]        5558/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26570
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 19
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157205 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 574 texinfos to 229
+Reduced 6 texdatas to 5 (177 bytes to 136)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2644 portalclusters
+9881 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 174642 visible clusters (0.00%)
+Total clusters visible: 6428711
+Average clusters visible: 2431
+Building PAS...
+Average clusters audible: 2643
+visdatasize:1749029  compressed from 1776768
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+5963 faces
+82 degenerate faces
+461978 square feet [66524856.00 square inches]
+9 Displacements
+430477 Square Feet [61988708.00 Square Inches]
+5881 patches before subdivision
+48585 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6889303, max 3566
+transfer lists:  52.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22790, 24857, 25908)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7384, 8752, 9512)
+Build Patch/Sample Hash Table(s).....Done<0.0148 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                260/8192         3120/98304    ( 3.2%) 
+brushsides            8657/81920       69256/655360   (10.6%) 
+planes               13894/65536      277880/1310720  (21.2%) 
+vertexes              7340/65536       88080/786432   (11.2%) 
+nodes                 2985/65536       95520/2097152  ( 4.6%) 
+texinfos               229/12288       16488/884736   ( 1.9%) 
+texdata                  5/4096          160/131072   ( 0.1%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168856/0          168856/0        ( 0.0%) 
+faces                 5963/65536      333928/3670016  ( 9.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2862/65536      160272/3670016  ( 4.4%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        5963/0           23852/0        ( 0.0%) 
+leaves                2989/65536       95648/2097152  ( 4.6%) 
+leaffaces             8144/65536       16288/131072   (12.4%) 
+leafbrushes            354/65536         708/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45941/512000     183764/2048000  ( 9.0%) 
+edges                25839/256000     103356/1024000  (10.1%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2469/32768       24690/327680   ( 7.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         43710/65536       87420/131072   (66.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7733016/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1749029/16777216 (10.4%) 
+entdata               [variable]        2679/393216   ( 0.7%) 
+LDR ambient table     2989/65536       11956/262144   ( 4.6%) 
+HDR ambient table     2989/65536       11956/262144   ( 4.6%) 
+LDR leaf ambient     10266/65536      287448/1835008  (15.7%) 
+HDR leaf ambient      2989/65536       83692/1835008  ( 4.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      157205/4194304  ( 3.7%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 23997
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 21
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (160420 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 629 texinfos to 254
+Reduced 8 texdatas to 7 (231 bytes to 190)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2758 portalclusters
+10229 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 172005 visible clusters (0.00%)
+Total clusters visible: 7029194
+Average clusters visible: 2548
+Building PAS...
+Average clusters audible: 2757
+visdatasize:1901705  compressed from 1941632
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6179 faces
+85 degenerate faces
+465166 square feet [66983936.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6094 patches before subdivision
+49722 patches after subdivision
+11 direct lights
+0...1.. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+2 warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 1223
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6502328, max 3572
+transfer lists:  49.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(23061, 25115, 26132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8007, 9434, 10205)
+Build Patch/Sample Hash Table(s).....Done<0.0165 sec>
+0...1.. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+. warning - face vectors parallel to face normal. bad lighting will be produced
+2 warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                273/8192         3276/98304    ( 3.3%) 
+brushsides            8900/81920       71200/655360   (10.9%) 
+planes               14420/65536      288400/1310720  (22.0%) 
+vertexes              7687/65536       92244/786432   (11.7%) 
+nodes                 3237/65536      103584/2097152  ( 4.9%) 
+texinfos               254/12288       18288/884736   ( 2.1%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6179/65536      346024/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2874/65536      160944/3670016  ( 4.4%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6179/0           24716/0        ( 0.0%) 
+leaves                3241/65536      103712/2097152  ( 4.9%) 
+leaffaces             8740/65536       17480/131072   (13.3%) 
+leafbrushes            703/65536        1406/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            47084/512000     188336/2048000  ( 9.2%) 
+edges                26391/256000     105564/1024000  (10.3%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2502/32768       25020/327680   ( 7.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         44301/65536       88602/131072   (67.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7850624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1901705/16777216 (11.3%) 
+entdata               [variable]        2860/393216   ( 0.7%) 
+LDR ambient table     3241/65536       12964/262144   ( 4.9%) 
+HDR ambient table     3241/65536       12964/262144   ( 4.9%) 
+LDR leaf ambient     11549/65536      323372/1835008  (17.6%) 
+HDR leaf ambient      3241/65536       90748/1835008  ( 4.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      160420/4194304  ( 3.8%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 24688
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (320.9 4530.8 1150.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 10886: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (227.2 4256.0 1096.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 10886: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (239.1 4460.8 1151.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 10886: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (160404 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 629 texinfos to 254
+Reduced 8 texdatas to 7 (231 bytes to 190)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2765 portalclusters
+10276 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 178321 visible clusters (0.00%)
+Total clusters visible: 7058570
+Average clusters visible: 2552
+Building PAS...
+Average clusters audible: 2764
+visdatasize:1911456  compressed from 1946560
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6172 faces
+79 degenerate faces
+469261 square feet [67573680.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6093 patches before subdivision
+50157 patches after subdivision
+11 direct lights
+0...1.. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+2 warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 1134
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6487298, max 3589
+transfer lists:  49.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22945, 24990, 26004)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7961, 9383, 10150)
+Build Patch/Sample Hash Table(s).....Done<0.0182 sec>
+0...1.. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+2 warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                273/8192         3276/98304    ( 3.3%) 
+brushsides            8905/81920       71240/655360   (10.9%) 
+planes               14430/65536      288600/1310720  (22.0%) 
+vertexes              7689/65536       92268/786432   (11.7%) 
+nodes                 3258/65536      104256/2097152  ( 5.0%) 
+texinfos               254/12288       18288/884736   ( 2.1%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6172/65536      345632/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2873/65536      160888/3670016  ( 4.4%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6172/0           24688/0        ( 0.0%) 
+leaves                3262/65536      104384/2097152  ( 5.0%) 
+leaffaces             8601/65536       17202/131072   (13.1%) 
+leafbrushes            830/65536        1660/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            47041/512000     188164/2048000  ( 9.2%) 
+edges                26355/256000     105420/1024000  (10.3%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2489/32768       24890/327680   ( 7.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         44151/65536       88302/131072   (67.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7827136/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1911456/16777216 (11.4%) 
+entdata               [variable]        2860/393216   ( 0.7%) 
+LDR ambient table     3262/65536       13048/262144   ( 5.0%) 
+HDR ambient table     3262/65536       13048/262144   ( 5.0%) 
+LDR leaf ambient     11313/65536      316764/1835008  (17.3%) 
+HDR leaf ambient      3262/65536       91336/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      160404/4194304  ( 3.8%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 24660
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 35
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.no samples 1750
+3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7766, 8387, 60938)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2783, 3231, 19764)
+Build Patch/Sample Hash Table(s).....Done<0.0172 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5403/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     12014/65536      336392/1835008  (18.3%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 37
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3 warning - face vectors parallel to face normal. bad lighting will be produced
+.no samples 1750
+..4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(18813, 20838, 71324)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4474, 5452, 21675)
+Build Patch/Sample Hash Table(s).....Done<0.0197 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5626/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11779/65536      329812/1835008  (18.0%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 38
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+3no samples 1750
+...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7757, 64918, 98537)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2779, 13319, 26677)
+Build Patch/Sample Hash Table(s).....Done<0.0205 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5614/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11735/65536      328580/1835008  (17.9%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 39
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3no samples 1750
+...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9126, 15451, 47038)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2981, 4440, 17162)
+Build Patch/Sample Hash Table(s).....Done<0.0185 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5620/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11735/65536      328580/1835008  (17.9%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 40
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 1750
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8031, 9756, 41114)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2822, 3468, 16119)
+Build Patch/Sample Hash Table(s).....Done<0.0192 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5626/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11575/65536      324100/1835008  (17.7%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 41
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+24 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.no samples 1750
+3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(7820, 8646, 39973)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2801, 3327, 15973)
+Build Patch/Sample Hash Table(s).....Done<0.0187 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         24/8192         2400/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]        5624/393216   ( 1.4%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11420/65536      319760/1835008  (17.4%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 42
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+45 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+.no samples 1750
+3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8792, 13800, 45160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2970, 4332, 17024)
+Build Patch/Sample Hash Table(s).....Done<0.0242 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         45/8192         4500/819200   ( 0.5%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]       10285/393216   ( 2.6%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11552/65536      323456/1835008  (17.6%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.vmf
+Map revision 42
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (166416 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 659 texinfos to 283
+Reduced 9 texdatas to 8 (252 bytes to 211)
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+reading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.prt
+2862 portalclusters
+10787 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 238285 visible clusters (0.00%)
+Total clusters visible: 7491385
+Average clusters visible: 2617
+Building PAS...
+Average clusters audible: 2861
+visdatasize:2040185  compressed from 2060640
+writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+6595 faces
+84 degenerate faces
+478996 square feet [68975432.00 square inches]
+9 Displacements
+435528 Square Feet [62716148.00 Square Inches]
+6511 patches before subdivision
+52793 patches after subdivision
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 64.000000 but _zero_percent_distance of 0.000000
+45 direct lights
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3no samples 1750
+...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8518168, max 3631
+transfer lists:  65.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8792, 13800, 45160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2970, 4332, 17024)
+Build Patch/Sample Hash Table(s).....Done<0.0185 sec>
+0...1...2. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            9232/81920       73856/655360   (11.3%) 
+planes               15004/65536      300080/1310720  (22.9%) 
+vertexes              8287/65536       99444/786432   (12.6%) 
+nodes                 3557/65536      113824/2097152  ( 5.4%) 
+texinfos               283/12288       20376/884736   ( 2.3%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      168200/0          168200/0        ( 0.0%) 
+faces                 6595/65536      369320/3670016  (10.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2965/65536      166040/3670016  ( 4.5%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists        6595/0           26380/0        ( 0.0%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             9405/65536       18810/131072   (14.4%) 
+leafbrushes           1473/65536        2946/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            49813/512000     199252/2048000  ( 9.7%) 
+edges                27856/256000     111424/1024000  (10.9%) 
+LDR worldlights         45/8192         4500/819200   ( 0.5%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2573/32768       25730/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         46680/65536       93360/131072   (71.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7994148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2040185/16777216 (12.2%) 
+entdata               [variable]       10285/393216   ( 2.6%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     11552/65536      323456/1835008  (17.6%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149144/0        ( 0.0%) 
+physics               [variable]      166416/4194304  ( 4.0%) 
+physics terrain       [variable]        5158/1048576  ( 0.5%) 
+
+Level flags = 7c
+
+Total triangle count: 26201
+Writing c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liaml\onedrive\documents\sourcedev\mapdev\bhop_placeholder\bhop_placeholder.bsp', but we don't own that location. Allowing...
+14 seconds elapsed
